@@ -11,6 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim necessitatibus co
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat autem qui laborum nostrum deleniti. Ea blanditiis quidem deleniti nihil, ratione perferendis nesciunt cumque consectetur impedit, quasi praesentium. Cupiditate, eos, nemo.
 </p>
 <p>
-	paragraphe dev
+	paragraphe developpement
 
 </p>
